@@ -401,8 +401,8 @@ This project is developed for educational purposes as part of a final year proje
 ## 📞 Contact
 
 For queries or suggestions:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: pillibharath23@gmail.com
+- GitHub: bharathp23
 
 ---
 
